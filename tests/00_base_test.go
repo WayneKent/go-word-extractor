@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"strings"
 	"testing"
-	word_extractor "word-extractor/pkg/word-extractor"
+	word_extractor "github.com/WayneKent/go-word-extractor/pkg/word-extractor"
 )
 
 func TestCheckingBlockFromFiles(t *testing.T) {

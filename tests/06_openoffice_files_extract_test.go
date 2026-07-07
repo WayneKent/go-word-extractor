@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 	"testing"
-	word_extractor "word-extractor/pkg/word-extractor"
+	word_extractor "github.com/WayneKent/go-word-extractor/pkg/word-extractor"
 
 	"github.com/stretchr/testify/require"
 )

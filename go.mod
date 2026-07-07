@@ -1,4 +1,4 @@
-module word-extractor
+module github.com/WayneKent/go-word-extractor
 
 go 1.21
 
